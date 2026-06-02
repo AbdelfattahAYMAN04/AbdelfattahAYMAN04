@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abdo Ayman
+# 👋 Hello, I'm Abdelfattah Ayman
 
 ### Front-End Developer | Electrical & Computer Engineering Student
 
@@ -44,13 +44,6 @@
 ---
 
 ## 📂 Featured Projects
-
-### 🎂 Birthday Celebration Website
-
-Interactive birthday website with animations, images, and special messages.
-
-**Technologies:** HTML, CSS, JavaScript
-
 ---
 
 ### 🌐 Personal Portfolio Website
