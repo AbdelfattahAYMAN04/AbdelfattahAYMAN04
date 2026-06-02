@@ -37,9 +37,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-* MATLAB
-* PLC Basics
-* Digital Electronics
 
 ---
 
